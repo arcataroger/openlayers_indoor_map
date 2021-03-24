@@ -1,11 +1,20 @@
 # openlayers_indoor_map
 Example of an interactive, indoor museum map built by the [Field Museum](https://github.com/fieldmuseum) using OpenLayers 6.5 and QGIS 3.16.
 
-This is an alpha release, meant more as an example of how to use OpenLayers to do indoor venue mapping. It's far from a complete project, and the codebase is messy and ugly. We hope to clean it up more and more over time, but in the meantime, at least it mostly works...
+We are releasing this code as an example for other museums and venues to freely use, but unfortunately we will not be able to officially support it due to limited resources. You are welcome to file issues and pull requests, but we cannot guarantee a timely response.
 
-Please note that you're welcome to fork and use this code, but support will be limited. We're a small team with only one developer, and while we'll try to monitor and reply to issues, we can't promise the timely release of bugfixes or new features. 
+The codebase is messy and poorly modularized/abstracted. Although we use this same code in our [production digital map](https://map.fieldmuseum.org/), we consider it an alpha release in need of cleanup and refactoring by more experienced devs. Nonetheless, it works as intended and is relatively well documented.
 
-Thanks for checking this out :)
+We hope this will be useful to someone out there!
+
+# LICENSING
+Portions Copyright 2020 Field Museum of Natural History
+
+We are releasing this source code under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause), same as OpenLayers itself.
+
+Content in this demo map (geometries, icons, etc.) is also released under [Creative Commons 4.0 Attribution (CC-BY-4)](http://creativecommons.org/licenses/by/4.0/). Of course, you'd probably want to replace our example content with your own.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 # FEATURES
 * Different levels of detail depending on zoom, to preserve visual hierarchy and emphasize major exhibitions and important amenities (restrooms) while zoomed in. Minor exhibitions start to appear once you zoom in more.
