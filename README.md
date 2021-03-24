@@ -1,5 +1,5 @@
 # openlayers_indoor_map
-Example of an interactive, indoor museum map built by the Field Museum using OpenLayers 6.5 and QGIS 3.16.
+Example of an interactive, indoor museum map built by the [Field Museum](https://github.com/fieldmuseum) using OpenLayers 6.5 and QGIS 3.16.
 
 This is an alpha release, meant more as an example of how to use OpenLayers to do indoor venue mapping. It's far from a complete project, and the codebase is messy and ugly. We hope to clean it up more and more over time, but in the meantime, at least it mostly works...
 
