@@ -1,4 +1,4 @@
-# tfm_map_openlayers
+# openlayers_indoor_map
 Example of an interactive, indoor museum map built by the Field Museum using OpenLayers 6.5 and QGIS 3.16.
 
 This is an alpha release, meant more as an example of how to use OpenLayers to do indoor venue mapping. It's far from a complete project, and the codebase is messy and ugly. We hope to clean it up more and more over time, but in the meantime, at least it mostly works...
@@ -53,7 +53,6 @@ index.css - Styling for the UI (buttons, logo, etc.)
 
 assets/ - Source files for our assets
   cms/ - Content (colors, descriptions, links, etc.) for our points of interest. A JSON dump from Contentful.
-  fonts/ - Webfonts (excluded due to copyright)
   icons/ - SVG icons used for amenities and pictograms
   images/ - UI images used in index.html
   layers/ - Floor source files (tif, png), outputs (geoJSON), and QGIS project
