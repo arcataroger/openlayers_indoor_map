@@ -7,14 +7,22 @@ The codebase is messy and poorly modularized/abstracted. Although we use this sa
 
 We hope this will be useful to someone out there!
 
-# LICENSING
-Portions Copyright 2020 Field Museum of Natural History
+## LICENSING
+Portions Copyright 2020 Field Museum of Natural History. Based on work by the OpenLayers and QGIS projects.
 
 We are releasing this source code under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause), same as OpenLayers itself.
 
 Content in this demo map (geometries, icons, etc.) is also released under [Creative Commons 4.0 Attribution (CC-BY-4)](http://creativecommons.org/licenses/by/4.0/). Of course, you'd probably want to replace our example content with your own.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+## Acknowledgments
+We'd like to thank the following people for their contributions in time and code to this project. This wouldn't have been possible without you!
+* Matthew Tarr and Raphael Pelegrino at the American Museum of Natural History for their wisdom and insights regarding indoor mapping
+* Jenn, Julia, and Lonny at Humboldt State University, who inspired a love of the natural world and the use of digital technology to help protect it
+* The teams behind OpenLayers and QGIS for making available the tools for amateurs and nonprofits to map their surroundings without breaking the bank
+* All the contributors to OpenStreetMap who revolutionized open-content, community-driven mapping
+* All the Field Museum staff who contributed to this project... thank you!!!
 
 # FEATURES
 * Different levels of detail depending on zoom, to preserve visual hierarchy and emphasize major exhibitions and important amenities (restrooms) while zoomed in. Minor exhibitions start to appear once you zoom in more.
@@ -74,7 +82,7 @@ docs/ - The built and minified production files from 'npm build'. This is what y
 * We created all our floor layers in QGIS (also FOSS) and exported them as geoJSON files for OpenLayers. The process of converting PDF maps or CAD files into usable geoJSON layers is out of scope of this readme, but in brief, it consists of georeferencing your PDF, using that as a tracing layer, and building vector features on top of it. We've included `/assets/layers/qgis-project.qgz` as an example so you can see how this was done, and there are numerous tutorials online and on YouTube. At some point we hope to record a video tutorial of our own showing how we did this; if that would be helpful, please let us know.
 
 ##  Basic Workflow 
-1. Create vector layers in your GIS software for footprints (polygons), areas of interest (polygons), one-way flows (polylines), labels (points), amenities (points), etc.
+1. Create vector layers in your GIS software for footprints (polygons), areas of interest (polygons), one-way flows (polylines), labels (points), amenities (points), etc. See `/assets/layers/qgis-project.qgz` for an example built in [QGIS](https://qgis.org/en/site/).
 1. Export or save those layers as geoJSON, making sure to [save their feature IDs in a geoJSON compatible way](https://gis.stackexchange.com/a/383629/12167) (by default QGIS will export IDs inside `properties{}`, which will NOT work)
 1. Load the geoJSON sources into `LayerFiles{}`, configure them in `LayerSettings{}`, style them by layer type in `LayerStyles{}`, group them into floors in `Floors{}`
 1. Create the map with `tfmMap` and view with `tfmView`. The map is the parent OpenLayers object that controls and draws everything. The view controls the human-visible viewport, along with zoom and rotation constraints.
