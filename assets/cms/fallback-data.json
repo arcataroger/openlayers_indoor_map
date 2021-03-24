@@ -1,0 +1,4381 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 39,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "siragusa_center",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2020-11-12T17:58:43.889Z",
+        "updatedAt": "2021-03-04T21:23:12.600Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Siragusa Center",
+        "sponsors": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6iCDvdprseKgFBU0P2Bobo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "nature_walk",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 12,
+        "createdAt": "2020-11-07T02:00:51.539Z",
+        "updatedAt": "2021-03-03T20:35:14.978Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Nature and Wilderness",
+        "fullName": "Nature Walk and Messages from the Wilderness",
+        "closed": "Open",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Follow the ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Nature Walk ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "boardwalk to discover animal habitats from right here in the Midwest and across the Americas. At every turn, encounter a diorama scene of plant and animal life—and see if you can spot each critter, down to the smallest beetle! The hand-crafted landscapes and diverse animal groups make ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Nature Walk",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " an immersive habitat tour for all ages. \n\nThen visit national parks from across the Americas. Dioramas in ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Messages from the Wilderness ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "show species—from the common to the extinct—as they would appear in their natural habitats. Tips and audio recordings from park rangers reveal the importance of protecting the places where animals live.  ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/nature-walk-messages-wilderness",
+        "color": "Map Light Green",
+        "showAtZoomLevel": "medium",
+        "ticketed": false,
+        "nodeId": 29581,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "mammals",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 1,
+        "createdAt": "2021-03-03T16:15:53.646Z",
+        "updatedAt": "2021-03-03T20:22:48.529Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Mammals",
+        "fullName": "Mammals",
+        "closed": "Open",
+        "shortDescription": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Catch glimpse of mammals from Asia and Africa—from giraffes at a watering hole to monkeys peeking out from the canopy. These halls include dioramas with meticulously crafted landscapes and carefully preserved specimens to immerse you in their unique habitats. ",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "color": "Map Light Green"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "science_hub",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 2,
+        "createdAt": "2020-11-07T02:00:55.091Z",
+        "updatedAt": "2021-03-03T20:22:42.151Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Science Hub",
+        "fullName": "Grainger Science Hub",
+        "shortDescription": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Science hub",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/grainger-science-hub",
+        "color": "",
+        "closed": "Closed",
+        "ticketed": false,
+        "nodeId": 21926,
+        "category": "exhibition_major",
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "evolving_planet",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 6,
+        "createdAt": "2020-11-07T02:00:56.687Z",
+        "updatedAt": "2021-03-03T20:22:42.134Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Evolving Planet",
+        "fullName": "Griffin Halls of Evolving Planet & SUE the T. rex",
+        "closed": "Open",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Discover the many creatures that have roamed the earth throughout history, from single-celled organisms to our extended human family. You can see a variety of real fossils and experience the story of evolution, the process that connects all living things on Earth.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Don’t miss the ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Elizabeth Morse Genius Hall of Dinosaurs",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " to get up close and personal with more than a dozen of the biggest creatures in our history. Then, experience the world of SUE the ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ", our famous fossil with a big personality.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/evolving-planet",
+        "sponsorAcknowledgment": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Griffin Halls of Evolving Planet",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " are part of the Griffin Dinosaur Experience, made possible by the generous support of the Kenneth C. Griffin Charitable Fund.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "color": "Field Purple",
+        "sponsors": [
+          {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6lxI0OAhVSYpXbeiFfeNUb"
+            }
+          }
+        ],
+        "ticketed": false,
+        "nodeId": 561,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "sue",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 11,
+        "createdAt": "2020-11-12T18:02:34.853Z",
+        "updatedAt": "2021-03-03T20:22:41.923Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "SUE the T. rex",
+        "fullName": "SUE the T. rex",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Enter a Late Cretaceous forest and come face-to-face with one of the world’s most notorious predators. Already the largest and most complete ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " specimen, SUE received scientific updates in 2018. We now have a more accurate picture of how a ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " skeleton should look, including where SUE’s gastralia fit in. Resembling a second set of ribs in the belly, gastralia may have helped ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " breathe.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "You can see ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " in motion through a media experience that recreates South Dakota 67 million years ago. And you can find fossils of creatures that lived at the same time, including ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Triceratops",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ", small mammals, and fish.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/visit/maps-guides/visiting-sue-t-rex-what-know-you-go",
+        "sponsorAcknowledgment": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Griffin Dinosaur Experience, made possible by the generous support of the Kenneth C. Griffin Charitable Fund, includes updates to SUE the T. rex and the Griffin Halls of Evolving Planet and more.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "color": "Field Purple",
+        "closed": "Open",
+        "showAtZoomLevel": "always",
+        "ticketed": false,
+        "nodeId": 28231
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "carl_cotton",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 14,
+        "createdAt": "2021-01-12T14:50:07.540Z",
+        "updatedAt": "2021-03-03T20:22:41.658Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Carl Cotton",
+        "fullName": "Carl Cotton",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "When you walk through our taxidermy halls, there’s a good chance you’ll see the handiwork of Carl W. Cotton. Now meet the person behind these displays. Cotton made realistic animal figures and exhibits for nearly 25 years at the Field. Unlike most taxidermists then—and now—Cotton was African American. After growing up on Chicago’s South Side and serving in World War II, Cotton went on to forge his own path in the museum starting in 1947. Get to know Cotton through his letters and photos, and take a closer look at the specimens he prepared. Each of his creations, whether a bird pecking at the ground or a monkey poised to jump, tells a story about nature.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/natural-talent-taxidermy-carl-cotton",
+        "color": "Field Orange",
+        "closed": "Open",
+        "showAtZoomLevel": "medium"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "ese_eja",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 5,
+        "createdAt": "2020-11-07T02:01:01.966Z",
+        "updatedAt": "2021-03-03T20:22:41.658Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Ese'Eja People",
+        "fullName": "The Ese'Eja People of the Amazon",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Ese'Eja (ess-ee-AY-ha) Nation are an Indigenous people that have lived in and cultivated the Amazon rainforest for thousands of years. Now, external forces like illegal mining, restrictive government policies, and slash-and-burn farming threaten their way of life. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Learn about the Ese'Eja and their response to change. Read messages from the Ese'Eja Nation alongside photographs that illustrate their resilience. In spite of threats to their home and cultural identity, the Ese'Eja remain connected to the forest and work tirelessly to protect it. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "This exhibition was created in collaboration with the Ese'Eja Nation.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/eseeja-people-amazon",
+        "color": "Field Orange",
+        "closed": "Open",
+        "showAtZoomLevel": "medium",
+        "labelOverride": "Ese'Eja\nPeople",
+        "ticketed": false,
+        "nodeId": 31341,
+        "category": "exhibition_major",
+        "floor": "Ground"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "pacific",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 5,
+        "createdAt": "2020-11-07T02:00:55.149Z",
+        "updatedAt": "2021-03-03T20:22:41.658Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Pacific",
+        "fullName": "Regenstein Halls of the Pacific",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The countries collectively referred to as the Pacific Islands—including New Guinea, New Zealand, Hawaii, the Marshall Islands, the Philippines, and many more—are separated by thousands of miles of ocean. The people who live on these islands speak many different languages and observe vastly different historical traditions and modern ways of life. In this exhibition, visitors can explore the history and culture of some of these islands. Hundreds of contemporary and historical objects—and stories shared by Pacific Islanders themselves—showcase the geographic and cultural diversity of this region.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/regenstein-halls-pacific",
+        "color": "Field Orange",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 24041,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "hoffman",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 5,
+        "createdAt": "2020-11-07T02:00:56.729Z",
+        "updatedAt": "2021-03-03T20:22:41.638Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Malvina Hoffman Sculptures",
+        "fullName": "Looking at Ourselves: Rethinking the Sculptures of Malvina Hoffman",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "In the early 1930s, the Field Museum commissioned sculptor Malvina Hoffman to create bronze sculptures for an exhibition called ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "The Races of Mankind",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ". Hoffman traveled around the world for an up-close look at the “racial types” her sculptures were meant to portray. The Field deinstalled the exhibition in the 1960s. By then, more than 10 million people had seen it—as well as its misguided message that human physical differences could be categorized into distinct “races.”",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "\n50 of Hoffman’s sculptures are back on display in ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Looking at Ourselves: Rethinking the Sculptures of Malvina Hoffman",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ". This exhibition examines the nuance and beauty that defines the person and inspiration behind each sculpture.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/looking-ourselves-rethinking-sculptures-malvina-hoffman",
+        "sponsorAcknowledgment": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Conservation and re-installation of the Hoffman works are made possible by a generous gift from Pamela K. and Roger B. Hull. The exhibition is made possible with the support of the Elizabeth Morse Genius Charitable Trust and an anonymous donor.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "color": "Field Orange",
+        "closed": "Open",
+        "showAtZoomLevel": "medium",
+        "labelOverride": "Malvina Hoffman\nSculptures",
+        "ticketed": false,
+        "nodeId": 20226,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "d_day",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 6,
+        "createdAt": "2020-11-07T02:01:05.579Z",
+        "updatedAt": "2021-03-03T20:22:41.632Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "D-Day Warriors",
+        "fullName": "D-Day Warriors: American Indians in the Military",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Honor Native soldiers who served during World War II and throughout US history. On June 6, 1944, Charles Shay landed on Omaha Beach in Normand as one of an estimated 500 American Indian soldiers who participated in the D-Day invasion to retake France in the fight against Nazi Germany.\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "In D-Day Warriors: American Indians in the Military, hear Shay’s story and explore the important role that Native servicemen and servicewomen continue to play in the armed forces.\n",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "The exhibition is presented in both English and Spanish. La exhibición está presentada en inglés y español.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/d-day-warriors-american-indians-military",
+        "color": "Field Orange",
+        "closed": "Open",
+        "showAtZoomLevel": "medium",
+        "labelOverride": "D-Day\nWarriors",
+        "wheelchairAccessible": true,
+        "sensoryFriendly": true,
+        "ticketed": false,
+        "nodeId": 29531,
+        "category": "exhibition_major",
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "plants",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 3,
+        "createdAt": "2020-11-07T02:01:02.104Z",
+        "updatedAt": "2021-03-03T20:22:41.623Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Plants",
+        "fullName": "Plants of the World",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Peer through the glass of the grand wooden display cases to see meticulous, lifelike recreations of plant specimens. A stroll through ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Plants of the World",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " is an introduction to the varied uses of plants, from medicines and rubber to chocolates and teas. The hall opened in 1983 with 300 plants—representing nearly a third of all plant families. Wander this exhibition for a glimpse of the world of botany, from exotic specimens to plants you might spot in your own backyard.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/plants-world",
+        "color": "Map Light Green",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 26201,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "africa",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 3,
+        "createdAt": "2020-11-07T02:00:58.446Z",
+        "updatedAt": "2021-03-03T20:22:40.772Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Africa",
+        "fullName": "Africa",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "This exhibition offers a glimpse into the varied cultures and environments across this vast continent. There are 54 countries in Africa—home to more than a billion residents who communicate in as many as 2,000 unique languages. Experience the sights and sounds of life on the African continent. You can get lost in a bustling city in Senegal or the rainforest of Rwanda. You can travel along with a camel caravan deep in the Sahara or visit an industrial workshop in Ethiopia. Collection artifacts, cultural displays, and scientific findings come together to shed light on Africa throughout history.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/africa",
+        "color": "Field Orange",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 426,
+        "category": "exhibition_major",
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "fm_store",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 10,
+        "createdAt": "2020-11-12T17:57:12.531Z",
+        "updatedAt": "2021-03-03T20:22:40.760Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Museum Store",
+        "fullName": "Museum Store",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "A day at the museum isn’t complete without a stop by our store! Shelves are stocked with science-inspired gear, crafts, collectibles, and more. From SUE the ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "t-shirts to exclusive Field Museum spirits, you’ll find goodies for yourself and the other Field fans in your life. Members enjoy a 10-percent discount. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "You can also shop online anytime! Proceeds from our store go to support the Field’s critical work.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://store.fieldmuseum.org/",
+        "color": "Field Blue",
+        "closed": "Open",
+        "showAtZoomLevel": "medium",
+        "labelOverride": "Museum\nStore"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "restoring_earth",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 3,
+        "createdAt": "2020-11-07T02:00:58.403Z",
+        "updatedAt": "2021-03-03T20:22:40.759Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Restoring Earth",
+        "fullName": "Abbott Hall of Conservation: Restoring Earth",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "See how Field scientists get their hands dirty and their feet wet, putting science into action around the globe and close to home. Videos, large-scale photographs, and hands-on learning tools provide a close look at this collaborative work. Trek to Peru to learn how rainforests are conserved. Travel to Madagascar to explore how biodiversity is safeguarded. Drive to Chicago's South Side to see how scientists are helping people to connect with nature. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "In this exhibition, our scientists share how they promote cultural understanding and learn more about life on earth. Get a glimpse into the Field's worldwide conservation efforts—and the rich ecosystems that are central to our well-being.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/abbott-hall-conservation-restoring-earth",
+        "color": "Map Light Green",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 841,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "china",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 12,
+        "createdAt": "2020-11-07T02:00:58.503Z",
+        "updatedAt": "2021-03-03T20:22:40.742Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "China",
+        "fullName": "Cyrus Tang Hall of China",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Between a pair of stone lions is the entrance to a collection of rare textiles, rubbings, bronzes, and ceramics. The 350 objects on display examine 10,000 years of China’s rich cultural history. Take a close look at stone tools from Neolithic villages and weapons dating back to the centuries of the warring states. Get lost in painted scrolls depicting ordinary life. Discover goods traded along the Silk Road.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "There is no one China. In reality, it is composed of a variety of distinct landscapes, ethnicities, and social and lived experiences. The objects in this exhibition tell the story of China, a land of diverse societies unified by shared traditions and a history of dynamic change.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/cyrus-tang-hall-china",
+        "sponsorAcknowledgment": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Cyrus Tang Hall of China",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " is made possible with the generous support of the Cyrus Chung Ying Tang Foundation.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Additional support provided by the William G. McGowan Charitable Fund in Memory of Sue Ling Gin-McGowan.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "color": "Field Orange",
+        "closed": "Open",
+        "ticketed": true,
+        "nodeId": 26131,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "americas",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 3,
+        "createdAt": "2020-11-07T02:01:02.276Z",
+        "updatedAt": "2021-03-03T20:22:40.730Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Ancient Americas",
+        "fullName": "Robert R. McCormick Halls of the Ancient Americas",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "See how ancient cultures intertwine with our own. This exhibition journeys through 13,000 years of human ingenuity and achievement in the Americas. Societies thrived here long before the arrival of Europeans. Follow the path from hunters and gatherers to the Aztec and Inca empires, as well as, from the arrival of European settlers to the present day. With interactive displays and thousands of artifacts, explore what we’ve learned recently about these advanced early civilizations and what they teach us about our way of life today.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/robert-r-mccormick-halls-ancient-americas",
+        "color": "Field Orange",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 436,
+        "category": "exhibition_major",
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "apsaalooke",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 16,
+        "createdAt": "2020-11-07T02:00:55.126Z",
+        "updatedAt": "2021-03-03T20:22:40.728Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Apsáalooke Women and Warriors",
+        "fullName": "Apsáalooke Women and Warriors",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Warriors who are fearless in battle. Powerful women who are keepers of war shields and their stories. Beaders, artists, mothers, two-spirited people. Hear their voices and many others in ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Apsáalooke Women and Warriors",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ". In this exhibition, learn about the history, values, and beliefs of the Apsáalooke (Ahp-SAH-luh-guh) people of the Northern Plains, also known as the Crow. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The exhibition is presented in both English and Spanish, with select sections also in Apsáalooke. ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "La exhibición está presentada en inglés y español, con algunas secciones en apsálooke",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ". ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/apsaalooke-women-and-warriors",
+        "sponsorAcknowledgment": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Apsáalooke Women and Warriors",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " is jointly organized by the Field Museum and the Neubauer Collegium for Culture and Society at the University of Chicago.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "color": "Field Orange",
+        "labelAlignment": "left",
+        "closed": "Open",
+        "labelOverride": "Apsáalooke Women\n& Warriors",
+        "ticketed": true,
+        "nodeId": 30931,
+        "category": "exhibition_major",
+        "floor": "Ground"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "gems",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 4,
+        "createdAt": "2020-11-07T02:00:53.219Z",
+        "updatedAt": "2021-03-03T20:22:35.377Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Gems",
+        "fullName": "Grainger Hall of Gems",
+        "closed": "Open",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "See a stunning display of hundreds of precious stones and eye-popping jewelry. Each display features a gem in its three stages of transformation: raw crystal, cut and polished stone, and mounted jewel. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Grainger Hall of Gems",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " has been a visitor favorite since the museum opened in 1921. And it has a history older than the Field Museum itself. Tiffany & Co. displayed a gem collection at the 1893 World’s Columbian Exposition. It was then purchased and donated to Chicago’s then-new natural history museum. Since then, our collection has grown to include more than 600 gemstones and 150 pieces of antique and contemporary jewelry.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/grainger-hall-gems",
+        "color": "Map Yellow",
+        "labelAlignment": "right",
+        "ticketed": false,
+        "nodeId": 601,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "jades",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 14,
+        "createdAt": "2020-11-07T02:00:51.454Z",
+        "updatedAt": "2021-03-03T20:22:35.376Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Jades",
+        "fullName": "Elizabeth Hubert Malott Hall of Jades",
+        "closed": "Open",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Get a close look at more than 450 jade objects from our collection. They tell the story of jade’s iconic role throughout China's history and how it has changed over time. In Neolithic China, the stone was used in burial rituals. During the Bronze Age, kings and warriors displayed jade objects as symbols of their status. Today artists create arresting jade pieces honoring the past, using intricate new techniques.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "For millennia, jade has been described as possessing five virtues: benevolence, loyalty, wisdom, courage, and integrity. Discover more about its enduring importance to Chinese cultural traditions.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/elizabeth-hubert-malott-hall-jades",
+        "color": "Map Yellow",
+        "labelAlignment": "left",
+        "ticketed": false,
+        "nodeId": 631,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "birds",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 3,
+        "createdAt": "2020-11-07T02:00:55.130Z",
+        "updatedAt": "2021-03-03T20:22:35.365Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Birds",
+        "fullName": "Ronald and Christina Gidwitz Hall of Birds",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Peek through this window into our collective ornithological obsession—more than 1,000 birds await you. With rail displays, you can explore new science alongside traditional taxidermy. And you can feel immersed in the natural environments of birds through wall projections and environmental sound.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "We started building our collection as part of the World’s Columbian Exposition of 1893—and we never stopped collecting. Today, the Field Museum’s scientific bird collection has more than 530,000 specimens. It is the third largest in the United States and represents 90 percent of the world’s known bird species.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/ronald-and-christina-gidwitz-hall-birds",
+        "color": "Map Light Green",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 591,
+        "category": "exhibition_major",
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "simpson_theater",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 13,
+        "createdAt": "2020-11-12T17:58:00.255Z",
+        "updatedAt": "2021-03-03T20:22:34.443Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "3D Movies",
+        "fullName": "3D Movies at James Simpson Theater",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Do dinosaurs delight you? You can retrace the steps of Máximo—the largest dinosaur ever discovered—following a titanosaur’s life from egg to towering titan. You can also thrill in the earthshaking steps of a seven-ton predator: SUE the ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "T. rex",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ", the Field Museum’s most famous fossil. Or, unravel the mysteries of ancient Egypt. Take a journey that unlocks the secrets of Egyptian mummies and experience the wonders of ancient monuments.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Films are available to visitors with the purchase of an All-Access or Discovery Pass. Or—if your preferred showtime still has open seats—you can also purchase tickets at the theater door. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions?threeDMovie=1",
+        "color": "Field Blue",
+        "closed": "Open",
+        "labelOverride": "3D Movies",
+        "ticketed": true,
+        "mapId": "simpson_theater"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "animals",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 9,
+        "createdAt": "2020-11-07T02:00:56.732Z",
+        "updatedAt": "2021-03-03T20:22:34.127Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "What is an Animal?",
+        "fullName": "What is an Animal? and Animal Biology ",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Pass under the shadows of giant sea creatures and explore the colors, shapes, and sounds that make up the animal kingdom. In ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "What is an Animal? ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "you can meet mollusks hiding two skeletons and a frog that looks like a leaf. Discover the animal world and learn what makes each creature—including you!—an animal. Then, investigate how animals are related in ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Animal Biology.",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " Through specimens, models, and games, this journey through the animal kingdom showcases the vibrant diversity of life on Earth.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/what-animal-animal-biology",
+        "color": "Map Light Green",
+        "closed": "Open",
+        "labelOverride": "What is\nan Animal?",
+        "ticketed": false,
+        "nodeId": 29586,
+        "category": "exhibition_major",
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "underground",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 4,
+        "createdAt": "2020-11-07T02:01:00.170Z",
+        "updatedAt": "2021-03-03T20:22:34.125Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Underground Adventure",
+        "fullName": "Underground Adventure",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Step into our shrinking machine and come out smaller than a penny. (Don't worry, we'll change you back to your original size!) And explore the wild and exciting world of underground insects. Then meet a creepy, crawly cast of characters, including a giant mole cricket and a wolf spider. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "You can learn how some creatures live in the soil and how every species needs soil to survive and thrive. Soil nourishes plants like cotton, which we use to make the clothes we wear. And it sustains our food sources, from fruits and vegetables to animal proteins. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "After your adventure, you can tell your friends why we need healthy soil and why the next generation does too!",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/underground-adventure",
+        "color": "Map Light Green",
+        "closed": "Open",
+        "labelOverride": "Underground\nAdventure",
+        "ticketed": true,
+        "nodeId": 14496,
+        "category": "exhibition_major",
+        "floor": "Ground"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "egypt",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 4,
+        "createdAt": "2020-11-07T02:01:00.439Z",
+        "updatedAt": "2021-03-03T20:22:34.122Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Ancient Egypt",
+        "fullName": "Inside Ancient Egypt",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Inside Ancient Egypt",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": " is an up-close look at the daily lives of ancient Egyptians, as well as how they thought about death.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Explore two authentic chamber rooms from the burial site of Unis-Ankh, the son of the pharaoh Unis who reigned during the 5th Dynasty. The burial chamber is over 4,400 years old. And it houses one of the largest collections of mummies in the United States: 23 human mummies and more than 30 animal mummies.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "You can also experience an ancient marketplace reconstructed from market scenes shown on tomb walls. It's filled with goods and people engaged in everyday activities that occurred in this bustling cultural center.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "This exhibition offers clues to ancient Egyptians’ lives on Earth and everything we may have in common with them.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/inside-ancient-egypt",
+        "color": "Field Orange",
+        "closed": "Open",
+        "labelOverride": "Ancient\nEgypt",
+        "ticketed": false,
+        "nodeId": 656,
+        "category": "exhibition_major",
+        "floor": "Ground"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "meteorites",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 1,
+        "createdAt": "2020-11-07T02:00:54.895Z",
+        "updatedAt": "2021-01-12T14:39:57.190Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Meteorites",
+        "fullName": "Meteorites",
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/meteorites",
+        "color": "",
+        "closed": "Open",
+        "ticketed": false,
+        "category": "exhibition_major",
+        "nodeId": 23276,
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "maximo",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 10,
+        "createdAt": "2020-11-07T02:00:58.504Z",
+        "updatedAt": "2021-01-05T16:40:42.712Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Máximo the Titanosaur",
+        "fullName": "Máximo the Titanosaur",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Come face-to-face with the largest dinosaur ever discovered—the titanosaur ",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "Patagotitan mayorum",
+                  "nodeType": "text"
+                },
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": ". Named Máximo, meaning “maximum” or “most” in Spanish. This long-necked, plant-eating dinosaur lived over 100 million years ago in what is now Patagonia, Argentina.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Our titanosaur cast reaches 122 feet across and stands 28 feet tall at the head. Modeled from fossil bones, this cast conveys the sheer size of the biggest animal ever to live. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [
+                    {
+                      "type": "italic"
+                    }
+                  ],
+                  "value": "The exhibition is presented in both English and Spanish. La exhibición está presentada en inglés y español.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "And you can get to know Máximo better—by texting him at 1 (844) 994-3466. You can ask our friendly titanosaur what life was like during the Cretaceous Period and more.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/maximo-titanosaur",
+        "color": "Field Purple",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 26621,
+        "category": "exhibition_major",
+        "floor": "Upper",
+        "showAtZoomLevel": "medium",
+        "labelOverride": "Máximo\nthe\nTitanosaur"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "dna_lab",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 3,
+        "createdAt": "2020-11-07T02:00:53.348Z",
+        "updatedAt": "2020-12-30T19:27:56.085Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "DNA Lab",
+        "fullName": "DNA Discovery Center",
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/dna-discovery-center",
+        "color": "",
+        "closed": "Open",
+        "ticketed": false,
+        "nodeId": 541,
+        "category": "exhibition_major",
+        "floor": "Upper",
+        "showAtZoomLevel": "medium",
+        "labelOverride": "DNA\nLab"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "568EPqn9T3fcjQuwlurHiQ",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2020-12-11T21:27:45.709Z",
+        "updatedAt": "2020-12-11T21:30:40.278Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Pawnee Earth Lodge",
+        "fullName": "Pawnee Earth Lodge",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Step into a full-size replica of an earth lodge and experience Native American life in the 1800s under a blanket of stars. A traditional circular dwelling, an earth lodge was the center of life for the Pawnee people on the Great Plains in the 19th century. Settlements of up to 50 of these structures would form a community of nearby families in what is now Nebraska.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The dwelling’s round, domed shape symbolizes the belief that the stars and planets represented celestial beings. Look up for a peek at a few of the constellations the Pawnee most revered.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            },
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "Members of the Pawnee nation served as advisors in designing this earth lodge and its furnishings for the Museum—including a sacred area that was blessed by a Pawnee holy man when it was built.",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/pawnee-earth-lodge",
+        "color": "Map Brown",
+        "closed": "Closed",
+        "nodeId": 801,
+        "mapId": "earth_lodge"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "maori_house",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 2,
+        "createdAt": "2020-11-07T02:00:54.988Z",
+        "updatedAt": "2020-12-11T21:03:03.725Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Maori House",
+        "fullName": "Maori Meeting House, Ruatepupuke II",
+        "shortDescription": {
+          "data": {},
+          "content": [
+            {
+              "data": {},
+              "content": [
+                {
+                  "data": {},
+                  "marks": [],
+                  "value": "The Maori are the first settlers of New Zealand. Today, they have a strong presence in New Zealand’s government and society and maintain traditions that celebrate the past and flourish with contemporary inspiration. Built in 1881 on Tokomaru Bay, this wharenui (FAH-reh-new-EE) is one of only three such Maori meeting houses outside of New Zealand. The house is still used in the spirit of its original purpose, welcoming diverse groups of many backgrounds from around Chicago and the world. Structural elements of the house form the body of Ruatepupuke (roo-AH-tay-PU-pu-keh), the Maori ancestor who brought the art of woodcarving to the world. Look for his carved face at the top of the roof, as his arms welcome you inside. ",
+                  "nodeType": "text"
+                }
+              ],
+              "nodeType": "paragraph"
+            }
+          ],
+          "nodeType": "document"
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/maori-meeting-house-ruatepupuke-ii",
+        "color": "Map Brown",
+        "closed": "Closed",
+        "ticketed": false,
+        "nodeId": 731,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "fossil_lab",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 2,
+        "createdAt": "2020-11-07T02:00:53.343Z",
+        "updatedAt": "2020-12-11T16:57:38.844Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Fossil Lab",
+        "fullName": "McDonald’s Fossil Preparation Lab",
+        "shortDescription": {
+          "nodeType": "document",
+          "data": {},
+          "content": [
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "Watch as stone slabs become prehistoric scientific specimens. After scientists discover fossils out in the field, they carefully package them at the site for their journey to the museum. Then, a team of preparators and volunteers begin extracting the fossils from their stone tombs—a job that can take months or years. Preparing the fossils of SUE the T. rex took 12 person-years! ",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            },
+            {
+              "nodeType": "paragraph",
+              "content": [
+                {
+                  "nodeType": "text",
+                  "value": "See the steps in the delicate process to ready fossilized specimens for display. Can you spot miniature versions of tools like jackhammers, circular saws, and sandblasters? The mini sandblasters shoot baking soda—strong enough to whittle away rock but gentle enough to protect precious fossils.",
+                  "marks": [],
+                  "data": {}
+                }
+              ],
+              "data": {}
+            }
+          ]
+        },
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/mcdonalds-fossil-preparation-lab",
+        "color": "Field Gray",
+        "closed": "Closed",
+        "ticketed": false,
+        "nodeId": 751,
+        "category": "exhibition_major",
+        "floor": "Upper"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "malvina",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 1,
+        "createdAt": "2020-11-28T02:11:52.483Z",
+        "updatedAt": "2020-11-28T02:17:15.691Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Malvina Hoffman Statues",
+        "fullName": ""
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "travel_pacific",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 9,
+        "createdAt": "2020-11-10T16:23:02.149Z",
+        "updatedAt": "2020-11-24T18:06:18.841Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Traveling the Pacific",
+        "fullName": "Traveling the Pacific",
+        "color": "Map Light Blue",
+        "closed": "Open",
+        "category": "exhibition_major"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "south_lunch_area",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2020-11-12T17:58:30.347Z",
+        "updatedAt": "2020-11-12T17:58:30.347Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "South Lunch Area"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "north_lunch_area",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2020-11-12T17:58:20.874Z",
+        "updatedAt": "2020-11-12T17:58:20.874Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "North Lunch Area"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "ward_hall",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 0,
+        "createdAt": "2020-11-12T17:57:42.273Z",
+        "updatedAt": "2020-11-12T17:57:42.273Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Ward Hall"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "pawnee_lodge",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 1,
+        "createdAt": "2020-11-07T02:00:53.184Z",
+        "updatedAt": "2020-11-07T02:15:08.135Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Pawnee Lodge",
+        "fullName": "Pawnee Earth Lodge",
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/pawnee-earth-lodge",
+        "color": "",
+        "closed": "Closed",
+        "ticketed": false,
+        "category": "exhibition_major",
+        "nodeId": 801,
+        "floor": "Main"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "playlab",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 1,
+        "createdAt": "2020-11-07T02:00:49.876Z",
+        "updatedAt": "2020-11-07T02:15:08.013Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Family PlayLab",
+        "fullName": "Crown Family PlayLab",
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/crown-family-playlab",
+        "color": "",
+        "closed": "Closed",
+        "ticketed": false,
+        "category": "exhibition_major",
+        "nodeId": 511,
+        "floor": "Ground"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "sq6jwxz7772c"
+          }
+        },
+        "type": "Entry",
+        "id": "plant_medicine",
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "poi"
+          }
+        },
+        "revision": 1,
+        "createdAt": "2020-11-07T02:01:03.982Z",
+        "updatedAt": "2020-11-07T02:15:04.459Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "shortName": "Plant Medicine",
+        "fullName": "Plant Medicine",
+        "imageUrl": "https://placehold.it/300x200",
+        "websiteUrl": "https://www.fieldmuseum.org/exhibitions/plant-medicine",
+        "color": "",
+        "closed": "Open",
+        "ticketed": false,
+        "category": "exhibition_major",
+        "nodeId": 31407,
+        "floor": "Upper"
+      }
+    }
+  ],
+  "includes": {
+    "Entry": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Entry",
+          "id": "6iCDvdprseKgFBU0P2Bobo",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "sponsor"
+            }
+          },
+          "revision": 0,
+          "createdAt": "2021-03-04T21:22:50.212Z",
+          "updatedAt": "2021-03-04T21:22:50.212Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {}
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Entry",
+          "id": "6lxI0OAhVSYpXbeiFfeNUb",
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "sponsor"
+            }
+          },
+          "revision": 1,
+          "createdAt": "2020-11-12T17:21:29.147Z",
+          "updatedAt": "2020-11-12T17:27:05.210Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "name": "Griffin",
+          "logo": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "7v1ap6e4YqaJ413aeAPuEm"
+            }
+          }
+        }
+      }
+    ],
+    "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "7v1ap6e4YqaJ413aeAPuEm",
+          "revision": 1,
+          "createdAt": "2020-11-12T17:25:46.532Z",
+          "updatedAt": "2020-11-12T17:26:07.536Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "griffin placeholder",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 5758,
+              "image": {
+                "width": 116,
+                "height": 50
+              }
+            },
+            "fileName": "image.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "africa",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:49.837Z",
+          "updatedAt": "2020-11-07T02:01:02.252Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Africa",
+          "description": "Africa",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 673056,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-5047-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "americas",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:55.155Z",
+          "updatedAt": "2020-11-07T02:01:12.820Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Ancient Americas",
+          "description": "Robert R. McCormick Halls of the Ancient Americas",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 1119496,
+              "image": {
+                "width": 1500,
+                "height": 1000
+              }
+            },
+            "fileName": "17-069-0448-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "animals",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:54.919Z",
+          "updatedAt": "2020-11-07T02:01:07.398Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "What is an Animal?",
+          "description": "What Is an Animal? & Animal Biology",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 805567,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-5583-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "apsaalooke",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:58.451Z",
+          "updatedAt": "2020-11-07T02:01:12.724Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Apsáalooke Women & Warriors",
+          "description": "Apsáalooke Women and Warriors",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 771454,
+              "image": {
+                "width": 2000,
+                "height": 1471
+              }
+            },
+            "fileName": "c-ben-pease-sacred-under-the-cliff-of-yellowstone.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "birds",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:01:02.108Z",
+          "updatedAt": "2020-11-07T02:01:06.552Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Birds",
+          "description": "Ronald and Christina Gidwitz Hall of Birds",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 909256,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-5324-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "china",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:53.339Z",
+          "updatedAt": "2020-11-07T02:01:04.070Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "China",
+          "description": "Cyrus Tang Hall of China",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 704448,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-1735.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "d_day",
+          "revision": 2,
+          "createdAt": "2020-11-07T02:00:49.852Z",
+          "updatedAt": "2020-11-07T02:22:24.548Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "D-Day American Indians",
+          "description": "D-Day Warriors: American Indians in the Military",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 559701,
+              "image": {
+                "width": 2000,
+                "height": 903
+              }
+            },
+            "fileName": "gn92643_024ad-kuo_webexportrevised.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "dna_lab",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:49.858Z",
+          "updatedAt": "2020-11-07T02:01:02.122Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "DNA Lab",
+          "description": "DNA Discovery Center",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 800654,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-3611-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "egypt",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:56.739Z",
+          "updatedAt": "2020-11-07T02:01:12.853Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Ancient Egypt",
+          "description": "Inside Ancient Egypt",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 1288196,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-8344-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "ese_eja",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:53.199Z",
+          "updatedAt": "2020-11-07T02:01:04.156Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Ese'Eja People",
+          "description": "The Ese'Eja People of the Amazon",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 525071,
+              "image": {
+                "width": 2000,
+                "height": 1335
+              }
+            },
+            "fileName": "eseeja-field-museum-andrew-bale-jon-cox-jc_03120-1.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "evolving_planet",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:51.517Z",
+          "updatedAt": "2020-11-07T02:01:04.210Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Evolving Planet",
+          "description": "Griffin Halls of Evolving Planet & SUE the T. rex",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 1914919,
+              "image": {
+                "width": 2000,
+                "height": 1336
+              }
+            },
+            "fileName": "field2_sue_visitors1266-hewett_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "fossil_lab",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:01:07.346Z",
+          "updatedAt": "2020-11-07T02:01:14.429Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Fossil Lab",
+          "description": "McDonald’s Fossil Preparation Lab",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 667252,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-4332-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "gems",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:49.852Z",
+          "updatedAt": "2020-11-07T02:00:54.536Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Gems",
+          "description": "Grainger Hall of Gems",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 534710,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-1189-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "hoffman",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:56.717Z",
+          "updatedAt": "2020-11-07T02:01:09.178Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Mavina Hoffman Sculptures",
+          "description": "Looking at Ourselves: Rethinking the Sculptures of Malvina Hoffman",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 687077,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-2824-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "jades",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:55.154Z",
+          "updatedAt": "2020-11-07T02:00:59.331Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Jades",
+          "description": "Elizabeth Hubert Malott Hall of Jades",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 582724,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-1450-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "maori_house",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:01:00.451Z",
+          "updatedAt": "2020-11-07T02:01:11.245Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Maori House",
+          "description": "Maori Meeting House, Ruatepupuke II",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 701501,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-3791-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "maximo",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:54.875Z",
+          "updatedAt": "2020-11-07T02:01:09.162Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Máximo the Titanosaur",
+          "description": "Máximo the Titanosaur",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 146611,
+              "image": {
+                "width": 1024,
+                "height": 683
+              }
+            },
+            "fileName": "fieldmuseum_maximo-451-hewett_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "meteorites",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:51.509Z",
+          "updatedAt": "2020-11-07T02:01:10.988Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Meteorites",
+          "description": "Meteorites",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 5670917,
+              "image": {
+                "width": 3861,
+                "height": 2574
+              }
+            },
+            "fileName": "meteorites_img_0759-knight_dropbox_webexport_0.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "nature_walk",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:56.677Z",
+          "updatedAt": "2020-11-07T02:01:04.216Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Nature Walk",
+          "description": "Nature Walk & Messages from the Wilderness",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 1128037,
+              "image": {
+                "width": 2000,
+                "height": 1398
+              }
+            },
+            "fileName": "17-069-6379-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "pacific",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:51.504Z",
+          "updatedAt": "2020-11-07T02:01:04.175Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Pacific",
+          "description": "Regenstein Halls of the Pacific",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 601182,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-1171-anderson_webexport_0.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "pawnee_lodge",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:55.154Z",
+          "updatedAt": "2020-11-07T02:01:10.900Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Pawnee Lodge",
+          "description": "Pawnee Earth Lodge",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 955978,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-3746-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "plant_medicine",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:53.176Z",
+          "updatedAt": "2020-11-07T02:01:10.972Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Plant Medicine",
+          "description": "Plant Medicine",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 512726,
+              "image": {
+                "width": 2000,
+                "height": 1191
+              }
+            },
+            "fileName": "paul-bick-plant-medicine-dsc_6089.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "plants",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:58.490Z",
+          "updatedAt": "2020-11-07T02:01:11.224Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Plants",
+          "description": "Plants of the World",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 278574,
+              "image": {
+                "width": 1500,
+                "height": 1000
+              }
+            },
+            "fileName": "17-069-1530-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "playlab",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:51.534Z",
+          "updatedAt": "2020-11-07T02:01:09.168Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Family PlayLab",
+          "description": "Crown Family PlayLab",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 843233,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-2163-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "restoring_earth",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:01:00.194Z",
+          "updatedAt": "2020-11-07T02:01:06.222Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Restoring Earth",
+          "description": "Abbott Hall of Conservation: Restoring Earth",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 869074,
+              "image": {
+                "width": 2000,
+                "height": 1333
+              }
+            },
+            "fileName": "17-069-2775-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "science_hub",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:56.568Z",
+          "updatedAt": "2020-11-07T02:01:11.163Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Science Hub",
+          "description": "Grainger Science Hub",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 254479,
+              "image": {
+                "width": 1500,
+                "height": 1000
+              }
+            },
+            "fileName": "17-069-3735-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "sq6jwxz7772c"
+            }
+          },
+          "type": "Asset",
+          "id": "underground",
+          "revision": 1,
+          "createdAt": "2020-11-07T02:00:51.495Z",
+          "updatedAt": "2020-11-07T02:01:10.966Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "Underground Adventure",
+          "description": "Underground Adventure",
+          "file": {
+            "url": "https://placehold.it/300x200",
+            "details": {
+              "size": 1209728,
+              "image": {
+                "width": 2000,
+                "height": 1339
+              }
+            },
+            "fileName": "17-069-7390-anderson_webexport.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    ]
+  }
+}

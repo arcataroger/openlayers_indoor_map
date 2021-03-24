@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "name": "upper_level_pictograms",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "stone_lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753455.007197991,
+          5140963.491790502
+        ]
+      },
+      "id": "stone_lion"
+    },
+    {
+      "type": "Feature",
+      "id": "sue",
+      "properties": {
+        "id": "sue",
+        "label": "SUE the T. rex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753415.70459409,
+          5140999.929715652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "trike"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753360.544303231,
+          5140993.9080106765
+        ]
+      },
+      "id": "trike"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "maori_house",
+        "label": "Maori\nHouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753618.928280002,
+          5140942.947180382
+        ]
+      },
+      "id": "maori_house"
+    }
+  ]
+}

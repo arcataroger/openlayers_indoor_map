@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "upper_level_labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "id": "restoring_earth", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753562.172631999477744, 5141014.504863454028964 ] } },
+{ "type": "Feature", "id": "pacific", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753559.7890625, 5140980.151031914167106 ] } },
+{ "type": "Feature", "id": "evolving_planet", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753412.764247501268983, 5141019.41593134496361 ] } },
+{ "type": "Feature", "id": "china", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753400.651098014786839, 5140948.706664113327861 ] } },
+{ "type": "Feature", "id": "plants", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753400.1736701708287, 5140914.305984682403505 ] } },
+{ "type": "Feature", "id": "jades", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753444.028104778379202, 5140892.304086741060019 ] } },
+{ "type": "Feature", "id": "gems", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753521.822038451209664, 5140891.065686972811818 ] } },
+{ "type": "Feature", "id": "hoffman", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753454.932073699310422, 5140926.617824981920421 ] } },
+{ "type": "Feature", "id": "ese_eja", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753623.242853654548526, 5140994.967897944152355 ] } },
+{ "type": "Feature", "id": "d_day", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753623.839864023029804, 5140975.720307347364724 ] } },
+{ "type": "Feature", "id": "sue", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753415.70459409058094, 5140999.929715652018785 ] } },
+{ "type": "Feature", "id": "carl_cotton", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753459.233758240938187, 5141042.435043804347515 ] } }
+]
+}

@@ -1,0 +1,194 @@
+{
+  "type": "FeatureCollection",
+  "name": "upper_level_amenities",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restroom_female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753497.730140567,
+          5141035.237939704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restroom_male"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753473.089643253,
+          5141035.746615496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753457.666214457,
+          5140982.0894154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "elevator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753439.539570265,
+          5140953.43172601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restroom_female"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753463.688776206,
+          5140879.32009448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "elevator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753521.761307439,
+          5140951.741074014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753603.44665459,
+          5141020.293263434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753523.58235728,
+          5141023.322387284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753507.951155886,
+          5141031.493801811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753462.252888804,
+          5141032.213023931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753521.284427516,
+          5140908.230195204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753482.72305687,
+          5140896.61199171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753444.659609228,
+          5140908.451494319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_down"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753365.084405726,
+          5140908.559183305
+        ]
+      }
+    }
+  ]
+}

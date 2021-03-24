@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "main_level_labels",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "id": "birds", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753555.605853484943509, 5141014.957947677001357 ] } },
+{ "type": "Feature", "id": "africa", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753589.946512931957841, 5140944.820704211480916 ] } },
+{ "type": "Feature", "id": "animals", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753562.151131944730878, 5140907.781388840638101 ] } },
+{ "type": "Feature", "id": "americas", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753389.861257903277874, 5141017.968470812775195 ] } },
+{ "type": "Feature", "id": "apsaalooke", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753437.933724680915475, 5140948.062695389613509 ] } },
+{ "type": "Feature", "id": "fm_store", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753419.202562866732478, 5140912.928526611067355 ] } },
+{ "type": "Feature", "id": "nature_walk", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753558.06776812300086, 5140998.354116146452725 ] } },
+{ "type": "Feature", "id": "maximo", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753483.036691509187222, 5141011.125253015197814 ] } },
+{ "type": "Feature", "id": "messages_wilderness", "properties": { }, "geometry": null },
+{ "type": "Feature", "id": "mammals", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -9753597.070161698386073, 5140980.895353266038001 ] } }
+]
+}

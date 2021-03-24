@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "name": "ground_level_labels",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753483.68979099,
+          5140944.760975551
+        ]
+      },
+      "id": "egypt"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753402.28125,
+          5140954.526322099
+        ]
+      },
+      "id": "underground"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "simpson_theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753585.738046113,
+          5140962.645689007
+        ]
+      },
+      "id": "simpson_theater"
+    }
+  ]
+}

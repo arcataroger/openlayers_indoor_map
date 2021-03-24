@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>OpenLayers Indoor Map Example</title>
+    <meta name="description" content="Example of OpenLayers to display an indoor venue map for a natural history museum">
+    <!-- The line below is only needed for old environments like Internet Explorer and Android 4.x -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=fetch,requestAnimationFrame,Element.prototype.classList,URL"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+
+<body>
+
+<div id="compass"><img src="/assets/images/compass.png" alt=""></div>
+<div id="tfm-sidebar" class="closed"></div>
+
+<!--Openlayers stuff-->
+<div id="map" class="map"></div>
+<div id="layers"></div>
+<div id="sidebar"></div>
+<script src="index.js"></script>
+
+
+</body>
+</html>

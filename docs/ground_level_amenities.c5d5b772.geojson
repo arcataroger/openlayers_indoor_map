@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "name": "ground_level_amenities",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753485.468601841,
+          5141008.308355463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753573.319908632,
+          5140928.243484347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "picnic_area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753540.56609772,
+          5140978.178234835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "picnic_area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753540.142921865,
+          5140948.21738454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "first_aid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753540.989273569,
+          5140986.72638703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "elevator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753521.544343192,
+          5140952.554937018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "guest_services"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "restroom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753375.231292507,
+          5140983.891108826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stroller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753357.79919363,
+          5140959.467022678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "wheelchair"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753347.35750274,
+          5140959.687284166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "elevator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753445.910657259,
+          5140953.820914226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "picnic_area"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753491.94888244,
+          5140983.780241814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753521.750354467,
+          5140907.415998525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753445.721843353,
+          5140965.066300285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753522.569809346,
+          5140963.50751801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "stairs_up"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753523.74965424,
+          5141020.206791695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "entrance"
+      },
+      "geometry": null
+    }
+  ]
+}

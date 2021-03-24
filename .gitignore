@@ -1,0 +1,4 @@
+# Project exclude paths
+/node_modules/
+/.cache/
+/docs/CNAME

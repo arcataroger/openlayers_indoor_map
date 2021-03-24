@@ -1,0 +1,21 @@
+{
+  "name": "tfm_map_geojson",
+  "dependencies": {
+    "@contentful/rich-text-html-renderer": "^14.1.2",
+    "assets": "^3.0.1",
+    "contentful": "^8.1.7",
+    "geojson": "^0.5.0",
+    "ol": "^6.5.0",
+    "ol-ext": "^3.1.17",
+    "ol-layerswitcher": "^3.8.3"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel -d docs index.html",
+    "prebuild": "mv docs/CNAME .; rm -rf docs/* dist; mv CNAME docs/CNAME",
+    "build": "parcel build -d docs --public-url . index.html"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "name": "main_level_pictograms",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753567.089020148,
+          5141026.714857465
+        ]
+      },
+      "id": "bird"
+    },
+    {
+      "type": "Feature",
+      "id": "maximo",
+      "properties": {
+        "id": "maximo",
+        "label": "Máximo\nthe\nTitanosaur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753489.238221748,
+          5140999.8948999485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "elephant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753475.010555338,
+          5140976.963249381
+        ]
+      },
+      "id": "elephant"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "totems"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753475.68009258,
+          5140945.494998966
+        ]
+      },
+      "id": "totems"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mask"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753428.877633499,
+          5140996.467543021
+        ]
+      },
+      "id": "mask"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pawnee_lodge",
+        "label": "Pawnee\nLodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753383.931545118,
+          5140948.93249759
+        ]
+      },
+      "id": "pawnee_lodge"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lion",
+        "label": "Tsavo\nLions"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753626.20118901,
+          5140971.974732949
+        ]
+      },
+      "id": "lion"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "south_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753482.198635027,
+          5140869.655059936
+        ]
+      },
+      "id": "south_entrance"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "north_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753485.796646956,
+          5141058.293685325
+        ]
+      },
+      "id": "north_entrance"
+    }
+  ]
+}

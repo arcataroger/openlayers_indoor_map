@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "name": "ground_level_pictograms",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753319.122814488,
+          5140967.457606696
+        ]
+      },
+      "id": "east_entrance"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bushman",
+        "label": "Bushman\nthe\nGorilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753385.819824317,
+          5140964.396295527
+        ]
+      },
+      "id": "bushman"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sarcophagus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9753483.519976422,
+          5140927.813226977
+        ]
+      },
+      "id": "sarcophagus"
+    }
+  ]
+}
