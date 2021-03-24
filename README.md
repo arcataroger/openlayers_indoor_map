@@ -1,5 +1,5 @@
 # openlayers_indoor_map
-Example of an interactive, indoor museum map built by the [Field Museum](https://github.com/fieldmuseum) using OpenLayers 6.5 and QGIS 3.16. See the [live demo](https://map.fieldmuseum.org/?utm_campaign=open_source&utm_source=github_readme&utm_medium=web) used by our museum.
+Example of an interactive, indoor museum map built by the [Field Museum](https://github.com/fieldmuseum) using OpenLayers 6.5 and QGIS 3.16. See the [working example](https://arcataroger.github.io/openlayers_indoor_map/) or the production version of the [Field Museum Digital Map](https://map.fieldmuseum.org/?utm_campaign=open_source&utm_source=github_readme&utm_medium=web).
 
 We are releasing this code as an example for other museums and venues to freely use, but unfortunately we will not be able to officially support it due to limited resources. You are welcome to file issues and pull requests, but we cannot guarantee a timely response.
 
