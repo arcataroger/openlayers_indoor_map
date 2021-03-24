@@ -7,7 +7,7 @@ The codebase is messy and poorly modularized/abstracted. Although we use this sa
 
 We hope this will be useful to someone out there!
 
-## LICENSING
+## Licensing
 Portions Copyright 2020 Field Museum of Natural History. Based on work by the OpenLayers and QGIS projects.
 
 We are releasing this source code under the [2-clause BSD license](https://opensource.org/licenses/BSD-2-Clause), same as OpenLayers itself.
