@@ -1,3 +1,11 @@
+# WARNING: ABANDONED
+
+As of May 2022, this project should be considered abandoned. It's left here for archival purposes, but I would strongly recommend that you look elsewhere for your indoor mapping needs.
+
+There are many vendor-supported commercial solutions available now, along with other open-source solutions: https://wiki.openstreetmap.org/wiki/Indoor_Mapping#Tools
+
+Unfortunately, I no longer work for my previous employer, and even when I was there, resources were diverted away from this project soon after its  release. No further development or maintenance will occur. You are still welcome to use this as an example and ask questions if you need help, but if you're looking for something production-ready, look elsewhere instead. Good luck!
+
 # openlayers_indoor_map
 Example of an interactive, indoor museum map built by the [Field Museum](https://github.com/fieldmuseum) using OpenLayers 6.5 and QGIS 3.16. See the [working example](https://arcataroger.github.io/openlayers_indoor_map/) or the production version of the [Field Museum Digital Map](https://map.fieldmuseum.org/?utm_campaign=open_source&utm_source=github_readme&utm_medium=web).
 
